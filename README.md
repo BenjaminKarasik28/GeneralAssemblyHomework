@@ -1,1 +1,1 @@
-Contains all homework done for General Assembly Java Immerseive Course
+Contains all homework done for General Assembly Java Immersive Course
